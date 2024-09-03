@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-    escreva("Olá,mundo!")
+    escreva("Ola,mundo!")
     
   }
 }
