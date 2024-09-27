@@ -8,8 +8,8 @@ A jornada de aprendizado do curso abrange diversas áreas essenciais para se tor
 
 ### Módulos do Curso
 
-- ***Linux (48 horas)
-- ***Python (48 horas)
+- **Linux (48 horas)
+- **Python (48 horas)
 
 - **Introdução à Lógica de Codificação e Algoritmos** (24 horas)
 - **Python** (48 horas)
