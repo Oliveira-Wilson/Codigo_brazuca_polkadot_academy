@@ -8,6 +8,9 @@ A jornada de aprendizado do curso abrange diversas áreas essenciais para se tor
 
 ### Módulos do Curso
 
+- ***Linux (48 horas)
+- ***Python (48 horas)
+
 - **Introdução à Lógica de Codificação e Algoritmos** (24 horas)
 - **Python** (48 horas)
 - **JavaScript** (48 horas)
@@ -22,10 +25,7 @@ A jornada de aprendizado do curso abrange diversas áreas essenciais para se tor
 - **Projeto Final (Hackathon)**
 - **Implantação do Projeto Final em uma Testnet**
 - **Exame de Avaliação**
-###Módulos extras
 
-- **Linux (48 horas)
-- **Python** (48 horas)
 
 ## Estrutura do Repositório
 
